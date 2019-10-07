@@ -1,0 +1,1 @@
+import './styleshhets/main.scss';
